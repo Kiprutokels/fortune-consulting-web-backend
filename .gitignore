@@ -1,0 +1,4 @@
+package-lock.json
+.env
+prisma/schema.prisma
+node_modules/
