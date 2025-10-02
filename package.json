@@ -2,6 +2,7 @@
   "name": "fortune-backend",
   "version": "1.0.0",
   "description": "Fortune Technologies Backend API",
+  "type": "module",
   "main": "src/app.js",
   "scripts": {
     "start": "node src/app.js",
@@ -25,7 +26,7 @@
     "swagger-jsdoc": "^6.2.8",
     "swagger-ui-express": "^5.0.1"
   },
-    "devDependencies": {
+  "devDependencies": {
     "nodemon": "^3.0.1",
     "@types/node": "^20.0.0"
   }
